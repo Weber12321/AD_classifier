@@ -391,16 +391,8 @@ Type the content which you want to classify and press `ENTER` if you want to add
 <!-- CONTACT -->
 ## Contact
 
-Weber Yen-Chun Huang 
+Weber Yen-Chun Huang   
 
-Machine Learning engineer
-
-eLand Information 
-
-Mail: ychuang@eland.com.tw
+Mail: doudi853@gmail.com  
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
